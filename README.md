@@ -1,6 +1,20 @@
 <h1 align="center">Hello 👋, I'm Dnyandev Sawarkar</h1>
-<h3 align="center">Innovative Software Developer | Building Scalable & AI-Driven Solutions Passionate problem solver with expertise in backend, Web3, and AI integration. Experienced in leading teams, optimizing software architecture, and enhancing user experiences. Seeking new challenges in cutting-edge development.</h3>
 
+### 🚀 Innovative Software Developer
+
+I specialize in AI-driven Web3 solutions, blockchain-based architectures, and IoT applications. With a strong focus on building scalable software, I architect AI-powered Web3 browsers and design secure smart contracts for decentralized ecosystems. 
+
+### 💡 Expertise & Skills
+- **Blockchain & Web3**: Secure smart contracts, decentralized ecosystems, and scalable dApps.
+- **AI & Machine Learning**: Integration of large language models (LLMs) and automation-driven solutions.
+- **IoT & Embedded Systems**: Real-time processing units, microcontroller-based automation, and wireless communication.
+- **Software Development**: Architecting and leading high-performing teams, mentoring engineers, and fostering continuous innovation.
+- **Full-Stack Development**: Server-side APIs, intuitive application design, and real-time automation.
+
+### 🎯 Passion & Vision
+I am passionate about developing next-generation technologies that enhance user experiences and solve complex challenges through strategic development. My work spans both educational and industrial domains, ensuring robust and efficient solutions.
+
+### Github Summary 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnyandevsawarkar&show_icons=true&locale=en&layout=compact" alt="dnyandevsawarkar" /></p>
 <br><br><br><br><br><br><br><br>
 <h3 align="left">Languages and Tools:</h3>
